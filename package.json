@@ -1,0 +1,15 @@
+{
+  "name": "eth-crypto-type-bug-reproduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bn.js": "^4.11.3",
+    "eth-crypto": "^1.2.5"
+  }
+}
